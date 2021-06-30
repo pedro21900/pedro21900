@@ -19,6 +19,6 @@ Meu nome é Pedro Lenonn , sou formado nio Instituto Federal do Tocantins - IFTO
   </li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro21900)](https://github.com/pedro21900/github-readme-stats)
 
 ![](https://github-readme-stats.vercel.app/api?username=pedro21900) 
